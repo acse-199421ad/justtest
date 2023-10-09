@@ -1,2 +1,2 @@
 # justtest yusec
-edit cloud
+edit local
